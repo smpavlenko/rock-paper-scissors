@@ -1,6 +1,6 @@
 Rock-Paper-Scissors game implementation
-Short description https://en.wikipedia.org/wiki/Rock-paper-scissors
 ==========================================================
+Short description https://en.wikipedia.org/wiki/Rock-paper-scissors
 
 RandomPlayer always plays randomly.
 
